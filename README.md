@@ -43,6 +43,8 @@ Power BI
 CSV / ETL Pipeline
 Data Cleaning & Exploratory Data Analysis (EDA)
 
+<img width="1113" height="621" alt="cafe sales" src="https://github.com/user-attachments/assets/75aa8e29-801a-4c16-bc69-9a8f498d809c" />
 
-<img width="1403" height="794" alt="Captura de pantalla 2025-12-30 001434" src="https://github.com/user-attachments/assets/26d3f21d-f317-4b01-b8b0-15854e20d117" />
+
+
 
